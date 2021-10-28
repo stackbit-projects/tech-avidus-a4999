@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      TechAvidus is Custom Software, Web, and Mobile Application Development
+      Company providing services to small, medium, and large enterprises.
     actions:
       - label: Contact Me
         url: /contact
